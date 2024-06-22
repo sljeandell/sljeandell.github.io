@@ -270,6 +270,7 @@ DEPENDENCIES
   gem (~> 0.0.1.alpha)
   github-pages
   jekyll
+  jekyll-sass-converter
   wdm (~> 0.1.1)
   webrick
 
